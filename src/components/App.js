@@ -5,8 +5,8 @@ import KegControl from './KegControl'
 function App() {
   return (
     <>
+      <NavBar />
       <div className="container">
-        <NavBar />
         <KegControl />
       </div>
     </>

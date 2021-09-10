@@ -5,7 +5,9 @@
 
 ### Project Description :pencil:
 
-* PROJECT DESCRIPTION 
+* This project is a one page application using React. You can see a list of kegs availabe, add a keg if you wish.
+* The user can add Kegs to the list via the form that renders when you click the _Add Keg!_ button.
+* A user can also click 'Buy a Pint' and the pints left in the keg will reduce by one.
 ---
 ### Tech Stack :floppy_disk:
 1. React

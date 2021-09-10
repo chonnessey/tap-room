@@ -2,6 +2,7 @@
 ## By Adrian Camacho :electric_plug:
 
 ---
+![screen shot of diagram](public/diagram.png)
 
 ### Project Description :pencil:
 

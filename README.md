@@ -15,6 +15,7 @@
 3. JSX
 4. Bootstrap
 5. CSS
+6. HTML
 ---
 ### Installation Instructions :pushpin:
 1. Clone this repo: `https://github.com/chonnessey/tap-room.git`

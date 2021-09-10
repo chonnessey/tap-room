@@ -1,11 +1,11 @@
 import React from 'react';
-import NavBar from './NavBar';
+import Header from './Header';
 import KegControl from './KegControl'
 
 function App() {
   return (
     <>
-      <NavBar />
+      <Header />
       <div className="container">
         <KegControl />
       </div>

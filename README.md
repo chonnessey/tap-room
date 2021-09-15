@@ -26,7 +26,7 @@
 5. Fill out the forms and have fun!
 ---
 ### Known Bugs :bug:
-1. Form won't render when 'Add Keg!' Button is clicked.
+1. No Known Bugs.
 2. Please open a pull request if you have any issues!
 ---
 ### Contact Info :inbox_tray:

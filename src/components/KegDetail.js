@@ -6,10 +6,12 @@ function KegDetail(props) {
 
   return (
     <>
-      <h1>Keg Deets</h1>
-      <h3>{keg.name} - {keg.brand}</h3>
-      <p>{keg.price}</p>
-      <p>{keg.alcoholContent}%</p>
+      <h2>Keg Deets</h2>
+      <h3>{keg.name}</h3>
+      <h4>{keg.brand}</h4>
+      <p>Price - ${keg.price}</p>
+      <p>ABV - {keg.alcoholContent}%</p>
+      <p>Pint Quantity - {keg.quantity}: <button className="btn-sm btn-primary">Buy Pint</button></p>
     </>
   )
 }

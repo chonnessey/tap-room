@@ -14,6 +14,10 @@ class KegControl extends React.Component {
     }
   }
 
+  handleBuyingPint = () => {
+    
+  }
+
   handleChangingSelectedKeg = (id) => {
     const selectedKeg = this.state.masterKegList.filter(keg => keg.id === id)[0];
     this.setState({selectedKeg: selectedKeg});

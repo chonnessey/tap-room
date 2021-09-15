@@ -6,7 +6,8 @@ function App() {
   return (
     <>
       <Header />
-      <div className="container">
+      <div className="container content">
+        <h1 className="header">PDX Tap Room</h1>
         <KegControl />
       </div>
     </>

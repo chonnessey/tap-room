@@ -55,6 +55,15 @@ code {
 }
 
 .header {
-  text-align: ;
+  text-align: center;
+}
+
+.keg-header {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.keg-header:hover {
+  color: rgb(177, 177, 177);
 }
 

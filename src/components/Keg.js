@@ -5,9 +5,10 @@ function Keg(props) {
   return (
     <>
       <div onClick = {() => props.whenKegClicked(props.id)}>
-        <h3>{props.name} - {props.brand}</h3>
-        <p>{props.price}</p>
-        <p>{props.alcoholContent}%</p>
+        <h3 className="keg-header">{props.name}</h3>
+        <h5>Brewery - {props.brand}</h5>
+        <p>Price - ${props.price}</p>
+        <p>ABV - {props.alcoholContent}%</p>
       </div>
     </>
   )
